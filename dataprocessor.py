@@ -1,6 +1,5 @@
 import csv
 from collections import defaultdict
-import json
 
 def locdict_maker (csvfilename):
     hosp_loc = {}
